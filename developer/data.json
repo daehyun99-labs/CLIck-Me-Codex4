@@ -1,0 +1,5 @@
+{
+  "name": "홍길동",
+  "intro": "주니어 파이썬 개발자 홍길동입니다.",
+  "skills": ["Python", "Click", "Rich", "Pyfiglet"]
+}
